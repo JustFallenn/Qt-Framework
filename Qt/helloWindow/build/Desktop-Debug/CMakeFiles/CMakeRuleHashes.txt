@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+e012f825819ab4db6a53a5302f7bc045 CMakeFiles/helloWindow_autogen
+e012f825819ab4db6a53a5302f7bc045 CMakeFiles/helloWindow_autogen_timestamp_deps
+8d09275ac0c54f5c4e1df5bbff20878e helloWindow_autogen/timestamp

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ede62d55bb8d1c99805b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FileWR",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FileWR::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileWR-Debug-8863c6cb42eddb1caa09.json",
+					"name" : "FileWR",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileWR_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileWR_autogen-Debug-5d077753188c7b438d61.json",
+					"name" : "FileWR_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileWR_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileWR_autogen_timestamp_deps-Debug-437cc9c1e64f05d685fa.json",
+					"name" : "FileWR_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/stajer/Desktop/stajer/FileWR/build/Desktop-Debug",
+		"source" : "/home/stajer/Desktop/stajer/FileWR"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

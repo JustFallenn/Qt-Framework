@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/FileWR.dir/FileWR_autogen/mocs_compilation.cpp.o CMakeFiles/FileWR.dir/main.cpp.o -o FileWR  /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2 

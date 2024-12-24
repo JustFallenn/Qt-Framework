@@ -1,0 +1,9 @@
+/home/stajer/Desktop/stajer/project1/build/Desktop-Debug/CMakeFiles/project1.dir
+/home/stajer/Desktop/stajer/project1/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/stajer/Desktop/stajer/project1/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/stajer/Desktop/stajer/project1/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/stajer/Desktop/stajer/project1/build/Desktop-Debug/CMakeFiles/install.dir
+/home/stajer/Desktop/stajer/project1/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/stajer/Desktop/stajer/project1/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/stajer/Desktop/stajer/project1/build/Desktop-Debug/CMakeFiles/project1_autogen_timestamp_deps.dir
+/home/stajer/Desktop/stajer/project1/build/Desktop-Debug/CMakeFiles/project1_autogen.dir
